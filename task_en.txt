@@ -1,0 +1,13 @@
+Problem:
+
+From N points located on the plane, you need to transfer the cargo to other N points (from the pickup point to the delivery point, each delivery has its own weight, in kilograms).
+The delivery task is handled by M trucks.
+The number of trucks, their parameters (carrying capacity and cost per unit distance) and starting position are set in the input file. Trucks after the end of work should return back to the starting points.
+Cargo weight and coordinates of loading and unloading points are specified in the input file.
+Truck travel speed is 1 unit of distance per 1 unit of time.
+Loading and unloading time is 1 unit of time.
+The time when the truck does not move is not included in the cost calculation.
+All trucks and deliveries are ready to work / service from time 0
+
+Task: to calculate the routes of the trucks with the minimum cost.
+Output the result to a file according to the attached template.

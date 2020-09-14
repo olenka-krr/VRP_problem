@@ -1,0 +1,1243 @@
+{
+	"cost" : 10933.836278981305,
+	"routes" : 
+	[
+		{
+			"act" : 
+			[
+				{
+					"arrTime" : 39.560080889704963,
+					"endTime" : 40.560080889704963,
+					"jobId" : "20",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 72.182857491388759,
+					"endTime" : 73.182857491388759,
+					"jobId" : "42",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 92.392230203687305,
+					"endTime" : 93.392230203687305,
+					"jobId" : "1",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 128.86052590562372,
+					"endTime" : 129.86052590562372,
+					"jobId" : "4",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 180.89972652632309,
+					"endTime" : 181.89972652632309,
+					"jobId" : "70",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 216.91400932634627,
+					"endTime" : 217.91400932634627,
+					"jobId" : "16",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 232.78007807366478,
+					"endTime" : 233.78007807366478,
+					"jobId" : "9",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 281.63402252968638,
+					"endTime" : 282.63402252968638,
+					"jobId" : "55",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 286.23957380515037,
+					"endTime" : 287.23957380515037,
+					"jobId" : "99",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 310.64897362658962,
+					"endTime" : 311.64897362658962,
+					"jobId" : "84",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 348.98528303177858,
+					"endTime" : 349.98528303177858,
+					"jobId" : "92",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 363.91367130896271,
+					"endTime" : 364.91367130896271,
+					"jobId" : "87",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 469.53680450616724,
+					"endTime" : 470.53680450616724,
+					"jobId" : "46",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 564.35044956913237,
+					"endTime" : 565.35044956913237,
+					"jobId" : "6",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 642.29198581581772,
+					"endTime" : 643.29198581581772,
+					"jobId" : "55",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 731.90913991139905,
+					"endTime" : 732.90913991139905,
+					"jobId" : "17",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 838.92800615698764,
+					"endTime" : 839.92800615698764,
+					"jobId" : "1",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 919.93425591286609,
+					"endTime" : 920.93425591286609,
+					"jobId" : "38",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 968.35787871838363,
+					"endTime" : 969.35787871838363,
+					"jobId" : "92",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1127.171059409985,
+					"endTime" : 1128.171059409985,
+					"jobId" : "56",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1166.1842150274815,
+					"endTime" : 1167.1842150274815,
+					"jobId" : "97",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1196.1842150274815,
+					"endTime" : 1197.1842150274815,
+					"jobId" : "96",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1226.7307884328698,
+					"endTime" : 1227.7307884328698,
+					"jobId" : "47",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1243.7620079747512,
+					"endTime" : 1244.7620079747512,
+					"jobId" : "56",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1345.0266577771617,
+					"endTime" : 1346.0266577771617,
+					"jobId" : "42",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1378.3066825602996,
+					"endTime" : 1379.3066825602996,
+					"jobId" : "52",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1482.1463636177591,
+					"endTime" : 1483.1463636177591,
+					"jobId" : "87",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1587.9509436703504,
+					"endTime" : 1588.9509436703504,
+					"jobId" : "4",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1660.9509436703504,
+					"endTime" : 1661.9509436703504,
+					"jobId" : "46",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1747.9741963407766,
+					"endTime" : 1748.9741963407766,
+					"jobId" : "20",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1814.0433902807663,
+					"endTime" : 1815.0433902807663,
+					"jobId" : "16",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1827.2499458965001,
+					"endTime" : 1828.2499458965001,
+					"jobId" : "96",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1866.5774816899736,
+					"endTime" : 1867.5774816899736,
+					"jobId" : "84",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1974.1044735746598,
+					"endTime" : 1975.1044735746598,
+					"jobId" : "6",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2061.249699791787,
+					"endTime" : 2062.249699791787,
+					"jobId" : "38",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2156.8277099209918,
+					"endTime" : 2157.8277099209918,
+					"jobId" : "52",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2198.0893541993864,
+					"endTime" : 2199.0893541993864,
+					"jobId" : "17",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2222.4987540208258,
+					"endTime" : 2223.4987540208258,
+					"jobId" : "47",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2314.2070777844142,
+					"endTime" : 2315.2070777844142,
+					"jobId" : "9",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2387.2209653339696,
+					"endTime" : 2388.2209653339696,
+					"jobId" : "99",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2524.2503739190252,
+					"endTime" : 2525.2503739190252,
+					"jobId" : "97",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2544.0386681470809,
+					"endTime" : 2545.0386681470809,
+					"jobId" : "70",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2583.6262309102303,
+					"endTime" : 2584.6262309102303,
+					"jobId" : "3",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2663.9483589704382,
+					"endTime" : 2664.9483589704382,
+					"jobId" : "68",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2712.4878162664572,
+					"endTime" : 2713.4878162664572,
+					"jobId" : "44",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2758.4878162664572,
+					"endTime" : 2759.4878162664572,
+					"jobId" : "78",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2895.6972138864453,
+					"endTime" : 2896.6972138864453,
+					"jobId" : "40",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2949.9231474151302,
+					"endTime" : 2950.9231474151302,
+					"jobId" : "15",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2950.9231474151302,
+					"endTime" : 2951.9231474151302,
+					"jobId" : "15",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2999.3045783770585,
+					"endTime" : 3000.3045783770585,
+					"jobId" : "3",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3112.3447497442962,
+					"endTime" : 3113.3447497442962,
+					"jobId" : "78",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3224.6641101449022,
+					"endTime" : 3225.6641101449022,
+					"jobId" : "40",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3254.299752271455,
+					"endTime" : 3255.299752271455,
+					"jobId" : "44",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3302.0544311816989,
+					"endTime" : 3303.0544311816989,
+					"jobId" : "68",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3433.9627960786756,
+					"endTime" : 3434.9627960786756,
+					"jobId" : "90",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 3434.9627960786756,
+					"endTime" : 3435.9627960786756,
+					"jobId" : "90",
+					"type" : "deliveryShipment"
+				}
+			],
+			"end" : 3588.0844579155096,
+			"start" : 0.0,
+			"vehicleId" : "1"
+		},
+		{
+			"act" : 
+			[
+				{
+					"arrTime" : 113.6001760562016,
+					"endTime" : 114.6001760562016,
+					"jobId" : "95",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 156.65965774582779,
+					"endTime" : 157.65965774582779,
+					"jobId" : "11",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 206.04353935943956,
+					"endTime" : 207.04353935943956,
+					"jobId" : "29",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 247.35482810093231,
+					"endTime" : 248.35482810093231,
+					"jobId" : "28",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 259.17148192732429,
+					"endTime" : 260.17148192732429,
+					"jobId" : "2",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 284.68678327158682,
+					"endTime" : 285.68678327158682,
+					"jobId" : "34",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 380.39158779596141,
+					"endTime" : 381.39158779596141,
+					"jobId" : "72",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 493.21734511510499,
+					"endTime" : 494.21734511510499,
+					"jobId" : "51",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 517.41217212459139,
+					"endTime" : 518.41217212459139,
+					"jobId" : "0",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 592.843348388305,
+					"endTime" : 593.843348388305,
+					"jobId" : "36",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 695.44059244541518,
+					"endTime" : 696.44059244541518,
+					"jobId" : "11",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 779.10255467714546,
+					"endTime" : 780.10255467714546,
+					"jobId" : "80",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 818.6901174402949,
+					"endTime" : 819.6901174402949,
+					"jobId" : "34",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 897.07874709607836,
+					"endTime" : 898.07874709607836,
+					"jobId" : "54",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 931.91659572745561,
+					"endTime" : 932.91659572745561,
+					"jobId" : "0",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1045.6374899751504,
+					"endTime" : 1046.6374899751504,
+					"jobId" : "32",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1056.6374899751504,
+					"endTime" : 1057.6374899751504,
+					"jobId" : "85",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1161.603830682131,
+					"endTime" : 1162.603830682131,
+					"jobId" : "95",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1261.9668016522062,
+					"endTime" : 1262.9668016522062,
+					"jobId" : "32",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1318.5095779602013,
+					"endTime" : 1319.5095779602013,
+					"jobId" : "62",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1417.7439914821439,
+					"endTime" : 1418.7439914821439,
+					"jobId" : "54",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1497.8199043760208,
+					"endTime" : 1498.8199043760208,
+					"jobId" : "85",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1572.2092769036558,
+					"endTime" : 1573.2092769036558,
+					"jobId" : "2",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1605.1153891707434,
+					"endTime" : 1606.1153891707434,
+					"jobId" : "62",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1727.7706397767079,
+					"endTime" : 1728.7706397767079,
+					"jobId" : "51",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1848.6247177215155,
+					"endTime" : 1849.6247177215155,
+					"jobId" : "36",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1892.1453009724542,
+					"endTime" : 1893.1453009724542,
+					"jobId" : "72",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1911.5300772833043,
+					"endTime" : 1912.5300772833043,
+					"jobId" : "28",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1975.1719163367677,
+					"endTime" : 1976.1719163367677,
+					"jobId" : "29",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2026.3316611527055,
+					"endTime" : 2027.3316611527055,
+					"jobId" : "80",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2044.0947157669457,
+					"endTime" : 2045.0947157669457,
+					"jobId" : "61",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2076.3517149831214,
+					"endTime" : 2077.3517149831214,
+					"jobId" : "21",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2129.5053342247425,
+					"endTime" : 2130.5053342247425,
+					"jobId" : "30",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2161.6501572295374,
+					"endTime" : 2162.6501572295374,
+					"jobId" : "50",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2230.2741174803241,
+					"endTime" : 2231.2741174803241,
+					"jobId" : "33",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2289.5235809971668,
+					"endTime" : 2290.5235809971668,
+					"jobId" : "58",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2383.8723892380867,
+					"endTime" : 2384.8723892380867,
+					"jobId" : "30",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2435.5083448427754,
+					"endTime" : 2436.5083448427754,
+					"jobId" : "58",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2482.2139243708812,
+					"endTime" : 2483.2139243708812,
+					"jobId" : "33",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2553.2210668636299,
+					"endTime" : 2554.2210668636299,
+					"jobId" : "21",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2624.2282093563786,
+					"endTime" : 2625.2282093563786,
+					"jobId" : "61",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2712.6867709727235,
+					"endTime" : 2713.6867709727235,
+					"jobId" : "50",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2855.1823539426523,
+					"endTime" : 2856.1823539426523,
+					"jobId" : "49",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2871.0484226899707,
+					"endTime" : 2872.0484226899707,
+					"jobId" : "10",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2923.1365817877499,
+					"endTime" : 2924.1365817877499,
+					"jobId" : "98",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2986.120450656997,
+					"endTime" : 2987.120450656997,
+					"jobId" : "59",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 3018.7432272586807,
+					"endTime" : 3019.7432272586807,
+					"jobId" : "69",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 3116.7586899437601,
+					"endTime" : 3117.7586899437601,
+					"jobId" : "22",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 3212.9479750550581,
+					"endTime" : 3213.9479750550581,
+					"jobId" : "25",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 3254.2592637965508,
+					"endTime" : 3255.2592637965508,
+					"jobId" : "98",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3323.5234564600551,
+					"endTime" : 3324.5234564600551,
+					"jobId" : "22",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3370.3273864224502,
+					"endTime" : 3371.3273864224502,
+					"jobId" : "69",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3463.0879443980857,
+					"endTime" : 3464.0879443980857,
+					"jobId" : "25",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3520.381816178236,
+					"endTime" : 3521.381816178236,
+					"jobId" : "49",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3592.4099796065552,
+					"endTime" : 3593.4099796065552,
+					"jobId" : "10",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 3715.9864863278681,
+					"endTime" : 3716.9864863278681,
+					"jobId" : "59",
+					"type" : "deliveryShipment"
+				}
+			],
+			"end" : 3820.7169061669874,
+			"start" : 0.0,
+			"vehicleId" : "2"
+		},
+		{
+			"act" : 
+			[
+				{
+					"arrTime" : 31.400636936215164,
+					"endTime" : 32.400636936215164,
+					"jobId" : "53",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 63.801273872430329,
+					"endTime" : 64.801273872430329,
+					"jobId" : "18",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 90.355138550791608,
+					"endTime" : 91.355138550791608,
+					"jobId" : "88",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 102.53547843829055,
+					"endTime" : 103.53547843829055,
+					"jobId" : "81",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 126.20704653579982,
+					"endTime" : 127.20704653579982,
+					"jobId" : "31",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 162.54824062994442,
+					"endTime" : 163.54824062994442,
+					"jobId" : "66",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 163.54824062994442,
+					"endTime" : 164.54824062994442,
+					"jobId" : "66",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 220.01895362337908,
+					"endTime" : 221.01895362337908,
+					"jobId" : "53",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 321.48287749657845,
+					"endTime" : 322.48287749657845,
+					"jobId" : "31",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 421.68469199611269,
+					"endTime" : 422.68469199611269,
+					"jobId" : "88",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 435.41261405747053,
+					"endTime" : 436.41261405747053,
+					"jobId" : "81",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 471.24076359200654,
+					"endTime" : 472.24076359200654,
+					"jobId" : "18",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 548.56245120437529,
+					"endTime" : 549.56245120437529,
+					"jobId" : "71",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 592.57407753958842,
+					"endTime" : 593.57407753958842,
+					"jobId" : "83",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 688.33693946344545,
+					"endTime" : 689.33693946344545,
+					"jobId" : "43",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 758.36591888513476,
+					"endTime" : 759.36591888513476,
+					"jobId" : "13",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 799.72679102635584,
+					"endTime" : 800.72679102635584,
+					"jobId" : "86",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 857.02954406739286,
+					"endTime" : 858.02954406739286,
+					"jobId" : "26",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 914.33229710842988,
+					"endTime" : 915.33229710842988,
+					"jobId" : "86",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1001.058605789021,
+					"endTime" : 1002.058605789021,
+					"jobId" : "13",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1132.1547241015978,
+					"endTime" : 1133.1547241015978,
+					"jobId" : "89",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1180.9563977124662,
+					"endTime" : 1181.9563977124662,
+					"jobId" : "26",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1268.2350161529582,
+					"endTime" : 1269.2350161529582,
+					"jobId" : "83",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1381.9647815212938,
+					"endTime" : 1382.9647815212938,
+					"jobId" : "89",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1447.3153836940785,
+					"endTime" : 1448.3153836940785,
+					"jobId" : "43",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1492.7000657364229,
+					"endTime" : 1493.7000657364229,
+					"jobId" : "71",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1531.143356190121,
+					"endTime" : 1532.143356190121,
+					"jobId" : "64",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1571.0406568676744,
+					"endTime" : 1572.0406568676744,
+					"jobId" : "91",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1603.8683177933535,
+					"endTime" : 1604.8683177933535,
+					"jobId" : "63",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1614.7171755951497,
+					"endTime" : 1615.7171755951497,
+					"jobId" : "57",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1626.0128057361367,
+					"endTime" : 1627.0128057361367,
+					"jobId" : "79",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1676.3483912703127,
+					"endTime" : 1677.3483912703127,
+					"jobId" : "5",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1719.3602943455128,
+					"endTime" : 1720.3602943455128,
+					"jobId" : "65",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1733.3986991559182,
+					"endTime" : 1734.3986991559182,
+					"jobId" : "41",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1746.9286632420599,
+					"endTime" : 1747.9286632420599,
+					"jobId" : "91",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1802.9559292108504,
+					"endTime" : 1803.9559292108504,
+					"jobId" : "79",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1953.889247722781,
+					"endTime" : 1954.889247722781,
+					"jobId" : "41",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1998.7184617244031,
+					"endTime" : 1999.7184617244031,
+					"jobId" : "63",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2065.4831939142327,
+					"endTime" : 2066.4831939142327,
+					"jobId" : "5",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2124.4659499715294,
+					"endTime" : 2125.4659499715294,
+					"jobId" : "65",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2225.4709498465359,
+					"endTime" : 2226.4709498465359,
+					"jobId" : "64",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2252.7768427224678,
+					"endTime" : 2253.7768427224678,
+					"jobId" : "57",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2342.3432020244059,
+					"endTime" : 2343.3432020244059,
+					"jobId" : "93",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2343.3432020244059,
+					"endTime" : 2344.3432020244059,
+					"jobId" : "93",
+					"type" : "deliveryShipment"
+				}
+			],
+			"end" : 2428.1584750956067,
+			"start" : 0.0,
+			"vehicleId" : "3"
+		},
+		{
+			"act" : 
+			[
+				{
+					"arrTime" : 97.616596949494195,
+					"endTime" : 98.616596949494195,
+					"jobId" : "24",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 165.88471718486275,
+					"endTime" : 166.88471718486275,
+					"jobId" : "94",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 194.17940531277512,
+					"endTime" : 195.17940531277512,
+					"jobId" : "39",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 296.22394994532817,
+					"endTime" : 297.22394994532817,
+					"jobId" : "73",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 311.54177100860454,
+					"endTime" : 312.54177100860454,
+					"jobId" : "82",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 384.74287903334334,
+					"endTime" : 385.74287903334334,
+					"jobId" : "48",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 434.78367837430028,
+					"endTime" : 435.78367837430028,
+					"jobId" : "35",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 472.99926650615708,
+					"endTime" : 473.99926650615708,
+					"jobId" : "7",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 517.04575300621889,
+					"endTime" : 518.04575300621889,
+					"jobId" : "77",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 652.06067754822652,
+					"endTime" : 653.06067754822652,
+					"jobId" : "37",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 700.47375591274533,
+					"endTime" : 701.47375591274533,
+					"jobId" : "82",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 779.78722857230753,
+					"endTime" : 780.78722857230753,
+					"jobId" : "35",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 802.99083188348209,
+					"endTime" : 803.99083188348209,
+					"jobId" : "27",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 847.03731838354383,
+					"endTime" : 848.03731838354383,
+					"jobId" : "67",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 921.09893621397509,
+					"endTime" : 922.09893621397509,
+					"jobId" : "75",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1008.9321095983447,
+					"endTime" : 1009.9321095983447,
+					"jobId" : "12",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1086.3520022965158,
+					"endTime" : 1087.3520022965158,
+					"jobId" : "77",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1132.129228650992,
+					"endTime" : 1133.129228650992,
+					"jobId" : "12",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1171.2080941803115,
+					"endTime" : 1172.2080941803115,
+					"jobId" : "24",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1308.1529359360766,
+					"endTime" : 1309.1529359360766,
+					"jobId" : "37",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1361.0759558790653,
+					"endTime" : 1362.0759558790653,
+					"jobId" : "45",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 1462.2557941700109,
+					"endTime" : 1463.2557941700109,
+					"jobId" : "73",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1542.413863878664,
+					"endTime" : 1543.413863878664,
+					"jobId" : "75",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1571.5741195593214,
+					"endTime" : 1572.5741195593214,
+					"jobId" : "39",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1697.973481599166,
+					"endTime" : 1698.973481599166,
+					"jobId" : "94",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1749.540269118248,
+					"endTime" : 1750.540269118248,
+					"jobId" : "48",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1813.1900895489564,
+					"endTime" : 1814.1900895489564,
+					"jobId" : "7",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1880.4320701956731,
+					"endTime" : 1881.4320701956731,
+					"jobId" : "27",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 1978.080919128291,
+					"endTime" : 1979.080919128291,
+					"jobId" : "45",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2030.325431029567,
+					"endTime" : 2031.325431029567,
+					"jobId" : "67",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2045.253819306751,
+					"endTime" : 2046.253819306751,
+					"jobId" : "8",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2058.7837833928925,
+					"endTime" : 2059.7837833928925,
+					"jobId" : "23",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2133.6011255287349,
+					"endTime" : 2134.6011255287349,
+					"jobId" : "14",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2243.6424021170069,
+					"endTime" : 2244.6424021170069,
+					"jobId" : "74",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2291.0320561359795,
+					"endTime" : 2292.0320561359795,
+					"jobId" : "19",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2326.8171103978316,
+					"endTime" : 2327.8171103978316,
+					"jobId" : "60",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2379.6051399027278,
+					"endTime" : 2380.6051399027278,
+					"jobId" : "76",
+					"type" : "pickupShipment"
+				},
+				{
+					"arrTime" : 2409.2407820292806,
+					"endTime" : 2410.2407820292806,
+					"jobId" : "74",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2458.2511975659118,
+					"endTime" : 2459.2511975659118,
+					"jobId" : "14",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2525.038734379506,
+					"endTime" : 2526.038734379506,
+					"jobId" : "23",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2585.7044699402113,
+					"endTime" : 2586.7044699402113,
+					"jobId" : "76",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2637.1821877967072,
+					"endTime" : 2638.1821877967072,
+					"jobId" : "19",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2715.286013901512,
+					"endTime" : 2716.286013901512,
+					"jobId" : "8",
+					"type" : "deliveryShipment"
+				},
+				{
+					"arrTime" : 2793.3119835481189,
+					"endTime" : 2794.3119835481189,
+					"jobId" : "60",
+					"type" : "deliveryShipment"
+				}
+			],
+			"end" : 2824.5774754489621,
+			"start" : 0.0,
+			"vehicleId" : "4"
+		},
+		{
+			"end" : 0.0,
+			"start" : 0.0,
+			"vehicleId" : "5"
+		}
+	]
+}
